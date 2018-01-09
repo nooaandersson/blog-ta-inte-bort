@@ -1,0 +1,31 @@
+.body1 {
+	background-color: gray;
+}
+
+.Username {
+	margin-left: 35%;
+
+
+}
+.Password {
+	margin-left: 35%;
+}
+
+.inputimage {
+	margin-left: 220px;
+	margin-top: -100px; 
+}
+.inputpass {
+	margin-left: 3px;
+	padding: 6px 12px 6px 12px;
+	border: 1px solid #665544; 
+	color: black; 
+}
+.inputuser {
+	padding: 6px 12px 6px 12px;
+	border: 1px solid #665544; 
+	color: black; 
+}
+.Submit {
+	margin-left: 39%;
+}
